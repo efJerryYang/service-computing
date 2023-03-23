@@ -14,23 +14,23 @@ Therefore, it is evident that service-oriented methodology holds immense value, 
 
 ### Overview
 
-**Case list:**
-
-1. Smart Homes: With the aid of Service Orientation in Smart Homes projects, IoT technology facilitates seamless communication between home appliances, entertainment systems, security cameras, and heating and cooling systems to achieve interconnectivity using the Alexa voice control platform, producing a revolutionary paradigm shift in the Electrical milieu.
-2. Industrial IoT: Service Orientation in Industrial IoT has ushered in unparalleled optimization of operations and slashed energy costs using IoT sensors, Big Data cloud computing, and Machine Learning algorithms capable of managing massive amounts of data, such as Siemens Mindsphere's replacement of traditional sensors with IoT sensors.
-3. Smart Agriculture: Service Orientation's implementation in Smart Agriculture achieved through IoT technology integration allows for soil moisture, temperature, and humidity monitoring, optimizing irrigation, fertilizer, and insecticide application, leading to efficient crop growth and better yields.
-4. Healthcare IoT: Healthcare IoT has benefitted immensely from Service Orientation, with the use of IoT wearable devices to monitor and collect critical patient health data during diagnosis and treatment, evidenced by the NHS's successful patient monitoring of heart rates, rhythms, sleep patterns, and daily physical activities to enhance disease identification.
-5. Smart Cities: Service Orientation in Smart Cities is transforming urban life with IoT sensors gaining traction in managing city infrastructure, facilitating cost savings and value-added services. Barcelona's adoption of IoT streetlights exemplifies this, reducing energy consumption while enhancing security and traffic management via IoT technology implementation.
-
 **Case table:**
 
-| Use case          | Description                                                                                      | Keywords                            | Links                               |
-| ----------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------- | ----------------------------------- |
-| Smart Homes       | Make home devices and appliances more intelligent and connected.                                 | Smart Home, IoT, Alexa              | [Case 1](#case-1-smart-homes)       |
-| Industrial IoT    | Collect and utilize data from IoT devices to optimize operations and save energy costs.          | Siemens Mindsphere, Big Data, ML    | [Case 2](#case-2-industrial-iot)    |
-| Smart Agriculture | Improve the efficiency of the agriculture industry.                                              | IoT, Agriculture, Smart Agriculture | [Case 3](#case-3-smart-agriculture) |
-| Healthcare IoT    | Collect and monitor critical health data to enhance the diagnosis and treatment of diseases.     | NHS, Wearable, Healthcare           | [Case 4](#case-4-healthcare-iot)    |
-| Smart Cities      | Create secure, and efficient communities by utilizing IoT sensors to manage city infrastructure. | Barcelona, Streetlights             | [Case 5](#case-5-smart-cities)      |
+| Use case          | Description                                                                                     | Keywords                            | Links                              |
+| ----------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ---------------------------------- |
+| Smart Homes       | Make home devices and appliances more intelligent and connected.                                | Smart Home, IoT, Alexa              | [Case1](#case-1-smart-homes)       |
+| Industrial IoT    | Collect and utilize data from IoT devices to optimize operations and save energy costs.         | Siemens Mindsphere, Big Data, ML    | [Case2](#case-2-industrial-iot)    |
+| Smart Agriculture | Improve the efficiency of the agriculture industry.                                             | IoT, Agriculture, Smart Agriculture | [Case3](#case-3-smart-agriculture) |
+| Healthcare IoT    | Collect and monitor critical health data to enhance the diagnosis and treatment of diseases.    | NHS, Wearable, Healthcare           | [Case4](#case-4-healthcare-iot)    |
+| Smart Cities      | Create secure and efficient communities by utilizing IoT sensors to manage city infrastructure. | Barcelona, Streetlights             | [Case5](#case-5-smart-cities)      |
+
+**Details:**
+
+1. **Smart Homes**: With the aid of Service Orientation in Smart Homes projects, IoT technology facilitates seamless communication between home appliances, entertainment systems, security cameras, and heating and cooling systems to achieve interconnectivity using the Alexa voice control platform, producing a revolutionary paradigm shift in the Electrical milieu.
+2. **Industrial IoT**: Service Orientation in Industrial IoT has ushered in unparalleled optimization of operations and slashed energy costs using IoT sensors, Big Data cloud computing, and Machine Learning algorithms capable of managing massive amounts of data, such as Siemens Mindsphere's replacement of traditional sensors with IoT sensors.
+3. **Smart Agriculture**: Service Orientation's implementation in Smart Agriculture achieved through IoT technology integration allows for soil moisture, temperature, and humidity monitoring, optimizing irrigation, fertilizer, and insecticide application, leading to efficient crop growth and better yields.
+4. **Healthcare IoT**: Healthcare IoT has benefitted immensely from Service Orientation, with the use of IoT wearable devices to monitor and collect critical patient health data during diagnosis and treatment, evidenced by the NHS's successful patient monitoring of heart rates, rhythms, sleep patterns, and daily physical activities to enhance disease identification.
+5. **Smart Cities**: Service Orientation in Smart Cities is transforming urban life with IoT sensors gaining traction in managing city infrastructure, facilitating cost savings and value-added services. Barcelona's adoption of IoT streetlights exemplifies this, reducing energy consumption while enhancing security and traffic management via IoT technology implementation.
 
 ### Case 1: Smart Homes
 
