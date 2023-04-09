@@ -24,3 +24,12 @@ By the end of April 2nd, submit a table with the information you have found.
 |          |                                   |                                                                |
 
 Make sure that the links you include are valid.
+
+## Task 3
+
+Find information online about the challenges of applying service orientation in the chosen domain/industry.
+
+By the end of April 9th, submit a table with the information you have found.
+
+| Challenges | Short description of the challenges | Link to the website where the challenges are described/mentioned |
+| ---------- | ----------------------------------- | ---------------------------------------------------------------- |
