@@ -121,3 +121,16 @@ Remove some parts from Review slide.
   - Cloud deployment models
   - Cloud standards and laws
   - Virtualization
+
+## Guidance on preparation
+
+Dear students, some of you had questions about the last question in the final examination - case question. Below are more details to help you prepare.
+
+1. The case question in the examination is NOT based on your case study assignment (in fact, case study assignment will not be included in the final examination).
+2. In the examination paper, case question, there will be a case text - a description of a company and their business needs - and you will be asked to propose a service oriented solution, some parts of it, as guided by specific tasks described in this question - there will be 4 parts.
+
+To answer these questions, you will need to use the knowledge you learned about Web Services, including the skills you practiced in the programming tutorial, as well as the exercises we did together in class in Module 5 and 6.
+
+---
+
+To prepare for the examination, some students used guided study questions included in our lectures PPT and some of your asked for guidance on which topics are most important to prepare well for the examination. In the above PPT you can find a reduced set of questions to help you better focus on more important study material.
