@@ -57,7 +57,7 @@ Remove some parts from Review slide.
   - What is the relationship between WSDL and service description?
   - What data does WSDL describe?
   - What is WSDL used for?
-  - What are the  major elements of WSDL?
+  - What are the major elements of WSDL?
   - Can you identify abstract and concrete parts of an example WSDL document?
   - Do you know what operations are available in this web service?
   - What is the relationship between SOAP, WSDL, and UDDI?
